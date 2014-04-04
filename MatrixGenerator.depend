@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1395414239 source:c:\users\dupuy\desktop\c.e.r.i\semestre 4\genie logiciel\matrixgenerator\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
+1395415720 source:c:\users\dupuy\desktop\c.e.r.i\semestre 4\genie logiciel\librairie\matrixgenerator\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+
